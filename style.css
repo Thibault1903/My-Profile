@@ -1,0 +1,78 @@
+
+
+body { font-family: 'Ibarra Real Nova', serif;
+       background-color: rgb(225, 225, 225);
+       color: 
+       font-size: 17px; 
+       font-weight: lighter;
+       text-align: center;
+       }
+
+#photo { border-radius: 50%; }
+
+h1, h2, {
+	font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+	font-size: 34px;
+	color: rgb(100,100,100);
+	font-weight:900;
+	}
+	
+h2 { 
+	font-weight: 50;
+	color: steelblue;
+	font-weight: lighter;
+	font-weight: 100;
+	}
+
+
+a {
+   text-decoration: none;
+	color: darkblue;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+    text-align: left;
+	}   
+a:hover { 
+	color: red;
+	}
+
+
+.containers{
+	background:white; 
+	padding:60px;
+	margin:50px;
+	box-shadow:0px 10px 30px midnightblue;
+	border-radius : 10px; 
+	width: 700px;
+	margin : 10px auto;
+}
+
+ul { text-align: left; }
+
+
+.btn-blue {
+  background-color: #6D71DD;
+  padding: 15px 20px;
+  border-radius: 5px;
+  color: rgb(230, 230, 230);
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
